@@ -74,7 +74,7 @@
   +   '<div class="ssp-stat"><b>Part 107</b><span>FAA-certified drone pilot</span></div>'
   +  '</div>'
   +  '<h3 style="margin-top:34px">Areas I serve</h3>'
-  +  '<ul class="ssp-areas"><li>Truckee</li><li>Tahoe Donner</li><li>Donner Lake</li><li>Northstar</li><li>Martis Camp</li><li>Lahontan</li><li>Olympic Valley / Palisades</li><li>Tahoe City</li><li>West Shore</li><li>Kings Beach</li><li>Incline Village</li><li>Lake Tahoe &amp; the Sierra</li></ul>'
+  +  '<ul class="ssp-areas"><li>Truckee</li><li>Tahoe Donner</li><li>Donner Lake</li><li>Northstar</li><li>Martis Camp</li><li>Lahontan</li><li>Olympic Valley / Palisades</li><li>Tahoe City</li><li>West Shore</li><li>Kings Beach</li><li>Incline Village</li><li>South Lake Tahoe</li><li>Lake Tahoe &amp; the Sierra</li><li>And Beyond</li></ul>'
   + '</div></section>'
 
   + '<section class="ssp-cta"><div class="ssp-wrap">'
